@@ -1,0 +1,15 @@
+E:\CrudTemplate\CrudTemplate\bin\Debug\net6.0\CrudTemplate.exe
+E:\CrudTemplate\CrudTemplate\bin\Debug\net6.0\CrudTemplate.deps.json
+E:\CrudTemplate\CrudTemplate\bin\Debug\net6.0\CrudTemplate.runtimeconfig.json
+E:\CrudTemplate\CrudTemplate\bin\Debug\net6.0\CrudTemplate.dll
+E:\CrudTemplate\CrudTemplate\bin\Debug\net6.0\CrudTemplate.pdb
+E:\CrudTemplate\CrudTemplate\obj\Debug\net6.0\CrudTemplate.csproj.AssemblyReference.cache
+E:\CrudTemplate\CrudTemplate\obj\Debug\net6.0\CrudTemplate.GeneratedMSBuildEditorConfig.editorconfig
+E:\CrudTemplate\CrudTemplate\obj\Debug\net6.0\CrudTemplate.AssemblyInfoInputs.cache
+E:\CrudTemplate\CrudTemplate\obj\Debug\net6.0\CrudTemplate.AssemblyInfo.cs
+E:\CrudTemplate\CrudTemplate\obj\Debug\net6.0\CrudTemplate.csproj.CoreCompileInputs.cache
+E:\CrudTemplate\CrudTemplate\obj\Debug\net6.0\CrudTemplate.dll
+E:\CrudTemplate\CrudTemplate\obj\Debug\net6.0\ref\CrudTemplate.dll
+E:\CrudTemplate\CrudTemplate\obj\Debug\net6.0\CrudTemplate.pdb
+E:\CrudTemplate\CrudTemplate\obj\Debug\net6.0\CrudTemplate.genruntimeconfig.cache
+E:\CrudTemplate\CrudTemplate\obj\Debug\net6.0\refint\CrudTemplate.dll
